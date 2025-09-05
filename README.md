@@ -18,7 +18,7 @@ Check out the live app here:
 ### 🔹 Screenshots  
 | Editor Page | Export Modal | Payment Flow |
 |-------------|--------------|--------------|
-| ![Editor](./screenshots/Editor Page.PNG) | ![Export](./screenshots/Export Page.PNG) | ![Payment](./screenshots/Plans Page.PNG) |
+|./screenshots/Editor Page.PNG) | ./screenshots/Export Page.PNG | ./screenshots/Plans Page.PNG |
 
 
 
