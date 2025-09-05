@@ -1,7 +1,6 @@
 # smartassign-continued
 SmartAssign – A web app that lets students edit, manage, and export assignments with free and premium export options.
 
-Perfect 🚀 — here’s a copy-paste ready README.md template for your repo, with placeholders for screenshots and a demo GIF. You just need to add image links later.
 
 # 📚 SmartAssign  
 
@@ -11,16 +10,17 @@ Perfect 🚀 — here’s a copy-paste ready README.md template for your repo, w
 
 ## ✨ Demo & Screenshots  
 
-### 🔹 Live Demo  
-[👉 View Demo](https://your-live-demo-link.com)  
+### 🔹 Live Link  
+
+Check out the live app here:
+### https://smartassign-document-bo2j.bolt.host/
 
 ### 🔹 Screenshots  
 | Editor Page | Export Modal | Payment Flow |
 |-------------|--------------|--------------|
-| ![Editor](./screenshots/editor.png) | ![Export](./screenshots/export.png) | ![Payment](./screenshots/payment.png) |
+| ![Editor](./screenshots/Editor Page.PNG) | ![Export](./screenshots/Export Page.PNG) | ![Payment](./screenshots/Plans Page.PNG) |
 
-### 🔹 Demo GIF  
-![Demo](./screenshots/demo.gif)  
+
 
 ---
 
@@ -39,7 +39,7 @@ Perfect 🚀 — here’s a copy-paste ready README.md template for your repo, w
 - **Frontend:** React + Vite + TypeScript + TailwindCSS  
 - **Backend:** Supabase (Auth, Database, Edge Functions)  
 - **Payments:** IntaSend API (M-Pesa, Cards)  
-- **Deployment:** Vercel / Netlify (frontend) + Supabase (backend)  
+- **Deployment:** Bolt.new (frontend) + Supabase (backend)  
 
 ---
 
@@ -56,13 +56,25 @@ Perfect 🚀 — here’s a copy-paste ready README.md template for your repo, w
 
 
 ---
+## Team
+
+👤 **Stephen Mwaniki**  
+- Role: Backend & Payment Integration (Flask + IntaSend)  
+- Contributions: Authentication system, database setup, IntaSend payments integration, deployment setup.  
+
+👤 **Immaculate Kamunya**  
+- Role: Frontend & UI/UX  
+- Contributions: Designed the rich text editor interface, styling with modern UI components, user flows.  
+
+⚡ This project was built collaboratively in a *vibe coding* style, where we experimented, built, and refined the app step by step as a team.
+
 
 ## ⚡ Getting Started  
 
 ### 1. Clone the repository  
 ```bash
-git clone https://github.com/your-username/smartassign.git
-cd smartassign
+git clone https://github.com/StephenNafula/smartassign-continued.git
+cd smartassign-continued
 
 2. Install dependencies
 npm install
